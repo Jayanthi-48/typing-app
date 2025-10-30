@@ -20,8 +20,11 @@ Challenge yourself with different difficulty levels and see how fast you can typ
 
 Speed-Typer/
 │
+
 ├── index.html # Main HTML file
+
 ├── style.css # Styling for the game
+
 └── script.js # Game logic (JavaScript)
 
 
@@ -70,4 +73,5 @@ Speed-Typer/
 ## 👨‍💻 Author
 
 **Developed by:** K.JAYANTHI 
+
 ✨ Have fun typing fast and improving your speed!
